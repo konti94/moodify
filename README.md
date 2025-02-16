@@ -80,7 +80,7 @@ npm install
 ```
 
 ### 3️⃣ Set Up Environment Variables
-Create a `.env` file in the **backend** directory with the following:
+Create a `.env` file in the root with the following:
 ```env
 YOUTUBE_SEARCH_BASE_URL=https://www.googleapis.com/youtube/v3/search
 YOUTUBE_API_KEY=your_youtube_api_key
