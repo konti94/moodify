@@ -3,7 +3,7 @@
     <button
       v-for="(emoji, mood) in emojis"
       :key="mood"
-      class="flex flex-col items-center justify-center p-2 md:p-4 border-2 border-m-green text-white rounded-lg transition hover:bg-m-green hover:border-white"
+      class="flex flex-col items-center justify-center p-2 md:p-4 border-2 border-m-green-500 text-white rounded-lg transition hover:bg-m-green-500 hover:border-white"
       @click="navigateToResult(mood)"
     >
       <span class="mb-1 lg:mb-2 lg:text-4xl">{{ emoji }}</span>

@@ -4,8 +4,18 @@ export default {
   theme: {
     extend: {
       colors: {
-        'm-green': '#50E3C2', // Mint Green
-        'm-red': '#E74C3C',   // Muted Red
+        'm-green': {
+          100: "#dcf9f3",
+          200: "#b9f4e7",
+          300: "#96eeda",
+          400: "#73e9ce",
+          500: "#50e3c2",
+          600: "#40b69b",
+          700: "#308874",
+          800: "#205b4e",
+          900: "#102d27"
+        },
+        'm-red': '#E74C3C',
         'm-blue': {
           100: "#d5d8dc",
           200: "#abb2b9",
