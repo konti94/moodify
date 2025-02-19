@@ -2,6 +2,9 @@
 
 Moodify is a simple web application that provides **music videos and quotes** based on the user's mood. Users select an emoji that represents their mood, and the app fetches a **matching YouTube video and an inspiring quote** from external APIs.
 
+## 🌍 Live Demo
+[Visit Moodify](https://moodify-xa8f.onrender.com/)
+
 ## 🚀 Features
 - Select a mood using emoji buttons
 - Fetches a **music video** from YouTube related to the selected mood
