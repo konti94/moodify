@@ -63,6 +63,9 @@ moodify/
 ```
 
 ## ⚡ Installation & Setup
+### Prerequisites
+- Node.js **26.13.1** (LTS) or newer 26.x — the version is pinned in `.nvmrc`, so with nvm just run `nvm use`
+
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/konti94/moodify.git
